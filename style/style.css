@@ -293,6 +293,19 @@ input,select{
 }
 /* bmi calculator section end */
 
+/* meet our team section start */
+.meet-text{
+    text-align: center;
+    line-height: 1.3rem;
+}
+.name{
+    color: white;
+}
+.traner{
+    color:white;
+}
+/* meet our team section end */
+
 
 
 
